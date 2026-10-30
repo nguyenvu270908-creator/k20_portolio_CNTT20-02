@@ -4,8 +4,8 @@
 
 ## Thông tin sinh viên
 
-- Họ và tên: [ ... ]
-- Mã sinh viên – Lớp: [ ... ]
+- Họ và tên: [...]
+- Mã sinh viên – Lớp: [... ]
 - Ngày thực hiện: [ ... ]
 - Link repository: [ ... ]
 - URL website: [ ... ]
