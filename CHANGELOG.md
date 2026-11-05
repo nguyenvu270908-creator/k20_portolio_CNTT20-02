@@ -1,6 +1,6 @@
 # Bản 1
 Kéo code của thầy về máy để chạy và tạo file README.md rồi đẩy code lên git
-# Bán 2
+# Bản 2
 Sửa index.html và css để cho nó chạy được ra web có css
 # Bản 3
 Tạo thêm file AI_log.md
